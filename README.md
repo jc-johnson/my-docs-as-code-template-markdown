@@ -1,7 +1,5 @@
 # my-docs-as-code-template-markdown
 
-# My Project Documentation
-
 This repository is a template project for using docs-as-code with Markdown.
 
 ## Structure
@@ -36,8 +34,6 @@ GitHub
 [MichaelCurrin/docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) — Lightweight, Markdown site using Docsify (SPA-style), simple setup. 
 GitHub
 	
-Just the Docs template — Jekyll + Just the Docs theme, ready for GitHub Pages. 
-[just-the-docs.github.io](https://just-the-docs.github.io/just-the-docs-template/)
-	
+[Just the Docs template](https://just-the-docs.github.io/just-the-docs-template/) — Jekyll + Just the Docs theme, ready for GitHub Pages. 	
 
 If you want something minimal, the Docsify or Joyent/MkDocs ones might be easiest.
