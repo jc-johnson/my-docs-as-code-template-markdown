@@ -1,0 +1,10 @@
+site_name: My Project Docs
+site_description: Documentation for My Project
+repo_url: https://github.com/your-org/your-repo
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md
